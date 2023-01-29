@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ConsoleApp3_Balan\bin\Debug\netcoreapp3.1\ConsoleApp3_Balan.exe
+C:\Users\User\source\repos\ConsoleApp3_Balan\bin\Debug\netcoreapp3.1\ConsoleApp3_Balan.deps.json
+C:\Users\User\source\repos\ConsoleApp3_Balan\bin\Debug\netcoreapp3.1\ConsoleApp3_Balan.runtimeconfig.json
+C:\Users\User\source\repos\ConsoleApp3_Balan\bin\Debug\netcoreapp3.1\ConsoleApp3_Balan.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConsoleApp3_Balan\bin\Debug\netcoreapp3.1\ConsoleApp3_Balan.dll
+C:\Users\User\source\repos\ConsoleApp3_Balan\bin\Debug\netcoreapp3.1\ConsoleApp3_Balan.pdb
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.AssemblyInfo.cs
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.dll
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.pdb
+C:\Users\User\source\repos\ConsoleApp3_Balan\obj\Debug\netcoreapp3.1\ConsoleApp3_Balan.genruntimeconfig.cache
